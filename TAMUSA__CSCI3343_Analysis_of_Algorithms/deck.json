@@ -1,0 +1,1074 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "7d2f7488-c952-11ed-b0ff-fbf1716490fb",
+            "deck_config_uuid": "11ae97d4-a760-11ed-8af1-a14d95925fac",
+            "desc": "Please see the <a href='https://ankiweb.net/shared/info/405104868'>shared deck page</a> for more info.",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-2332167241912.jpg",
+                "paste-2370821948060.jpg",
+                "paste-2658584756446.jpg",
+                "paste-373662155089.jpg",
+                "paste-390842024272.jpg",
+                "paste-721554505923.jpg",
+                "paste-8010114007303.jpg",
+                "paste-8340826488954.jpg",
+                "paste-8564164788366.jpg"
+            ],
+            "name": "Exam 1",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "INSERTION SORT - Example",
+                        "<img src=\"paste-721554505923.jpg\" />"
+                    ],
+                    "guid": "oO,;l5^6>5",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Algorithms",
+                        "INSERTION_SORT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "MERGE SORT - Example",
+                        "<img src=\"paste-2370821948060.jpg\" />"
+                    ],
+                    "guid": "P|WYGJv*]5",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "MERGE_SORT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Time Complexity of Heapify",
+                        "O(log n)"
+                    ],
+                    "guid": "FY284Uk)8Z",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Algorithms"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Time Complexity of Heap Sort",
+                        "O(n Log n)"
+                    ],
+                    "guid": "AK&>=Z;!|1",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Algorithms"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Time Complexity of Build Heap",
+                        "O(n)"
+                    ],
+                    "guid": "QT.zR54U=?",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Algorithms"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "MAX-HEAPIFY(A, i)",
+                        "<div>Maintains the status of a max heap where the root of the tree is the largest element and all lsubtrees maintain the same property.</div><img src=\"paste-8010114007303.jpg\" /><div>i is the elemnt of the array where we are applying the algorithm.</div>"
+                    ],
+                    "guid": "KZwbSjcA`P",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "HEAP_SORT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "BUILD MAX HEAP",
+                        "<img src=\"paste-8340826488954.jpg\" /><div>i is the length of the array</div>"
+                    ],
+                    "guid": "hZ%bDUw1Ol",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Algorithms"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HEAP SORT",
+                        "<img src=\"paste-8564164788366.jpg\" /><div>The root of the tree is popped off into into our stack then the greater of the top element of the two remainng trees becomes the root of the new merged tree.</div>"
+                    ],
+                    "guid": "lf1bHE1*Z4",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Algorithms",
+                        "HEAP_SORT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HEAP SORT - Quick Steps",
+                        "1. Pop the Top<div>2. Build Max Heap</div><div>3. Max Heapify(A, 1)</div><div><br /></div><div>Iterate untill you have a heap of one that become the lowest number.</div>"
+                    ],
+                    "guid": "IbEez<R;3o",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Algorithms"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HEAP EXTRACT MAX - Time Complexity",
+                        "O(lg n)"
+                    ],
+                    "guid": "uYIn>HCh;F",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "HEAP_SORT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HEAP EXTRACT MAX - Steps",
+                        "<div>1. Get Max Heap</div><div>2. Pop top Element</div><div>3. Move last element in the array to top.</div>4. Repeat.<img src=\"paste-390842024272.jpg\" />"
+                    ],
+                    "guid": "dV.RwQHoQS",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Algorithms"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HEAPSORT - worst case run time",
+                        "sorted ascending with lowest number on top.<div><br /></div><div>O(n log n)</div>"
+                    ],
+                    "guid": "c5ozl@k+cr",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Algorithms"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "To set QUICKSORT decending<div>(n+1, ..., 3, 2, 1)</div>",
+                        "Set initial if to:<div><br /></div><div>if p &gt; r</div>"
+                    ],
+                    "guid": "f88./i~^Nq",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "QUICKSORT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "To set QUICKSORT ascending<div>(1, 2, 3, ..., n+1)</div>",
+                        "set initial if statement to:<div><br /></div><div>if p &lt; r</div>"
+                    ],
+                    "guid": "nT.V0~a:/6",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "QUICKSORT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "QUICKSORT - worst case runtime",
+                        "The array is already sorted<div><br /><div>O(n^2)</div></div>"
+                    ],
+                    "guid": "rDgaPRg~*2",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "QUICKSORT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "QUICKSORT - best case runtime",
+                        "<div>When the pivot is selected to create two balanced arrays.</div><div><br /></div><div>O(n log n)</div>"
+                    ],
+                    "guid": "I5?Q64X,d-",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "QUICKSORT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Big O",
+                        "Where the function maximizes.<div><br /></div><div>The upper bound.</div>"
+                    ],
+                    "guid": "s3R*Vo~BPd",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Asymptotic",
+                        "notation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Big Omega",
+                        "Where the function minimizes.<div><br /></div><div>The lower bound.</div>"
+                    ],
+                    "guid": "i%-[t=pl^q",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Asymptotic",
+                        "notation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Big Theta",
+                        "Where the function is equal to itself.<div><br /></div><div>The function is equal to min and max</div><div><br /></div><div>Complexity is both Big O and Big Omega</div>"
+                    ],
+                    "guid": "I-{x1x[v8(",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Asymptotic",
+                        "notation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Big Omega - Theorem",
+                        "f(n) = Omega (g(n)) &nbsp;IFF 0 &lt;= c*g(n) &lt;= &nbsp;f(n) ) for all n &gt;= n0&nbsp;"
+                    ],
+                    "guid": "HM@H2XEV(3",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Theorem"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Big Theta - Theorem",
+                        "f(n) = Theta (g(n)) &nbsp;IFF 0 &lt;= c1*g(n) &lt;= &nbsp;f(n) &lt;= c2*g(n) for all n &gt;= n0&nbsp;"
+                    ],
+                    "guid": "mY/?(*Qs8:",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Theorem"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Big O - Theorem",
+                        "f(n) = O(g(n)) &nbsp;IFF 0 &lt;= f(n) &lt;= c*g(n) for all n &gt;= n0&nbsp;"
+                    ],
+                    "guid": "OUo,68cLEj",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Theorem"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Growth of Functions - Illustated",
+                        "<img src=\"paste-373662155089.jpg\" />"
+                    ],
+                    "guid": "r6YQ.<Rf/>",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "functions",
+                        "Growth"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Growth of Functions",
+                        "O( 2^n )<div>O( n^3 )<br /><div>O( n^2 )</div><div>O( n log n )</div></div><div>O( n )</div><div>O( log n )</div><div>O( 1 )</div>"
+                    ],
+                    "guid": "O3jx^k#P6/",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "functions",
+                        "Growth"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Steps to proving Asymptotic notation examples.",
+                        "<div>PROVE THAT IT IS BOUNDED</div>1. pick the largest degree polinomial for g(n)<div>2. divide all arguments in the equation by by g(n)&nbsp;</div><div>3. pick an n0 that will make your definition hold true.</div><div>3. pick a c or c1/c2 that meets the needs of your algorithm.</div>"
+                    ],
+                    "guid": "x:Y#mXu=QD",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "functions",
+                        "Growth"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "MERGE SORT - Algorithm",
+                        "<img src=\"paste-2332167241912.jpg\" />"
+                    ],
+                    "guid": "vMids1e;s;",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "MERGE_SORT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "INSERTION SORT - Algorithm",
+                        "<img src=\"paste-2658584756446.jpg\" />"
+                    ],
+                    "guid": "bVp8_M!3B?",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "INSERTION_SORT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "INSERTION SORT - Worst case",
+                        "When things are sorted decending.<div>(n+1, ..., 3, 2, 1)</div><div><br /></div><div>O(n^2)</div>"
+                    ],
+                    "guid": "QHidE`kWm/",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "INSERTION_SORT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "INSERTION SORT - Best Case",
+                        "When things are sorted ascending.<div>(1, 2, 3, ..., n+1)</div><div><br /></div><div>O(n)</div>"
+                    ],
+                    "guid": "u.D`*1vU/(",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "INSERTION_SORT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "MERGE SORT - Worst Case",
+                        "<div>Also best case</div><div><br /></div>O(n log n)"
+                    ],
+                    "guid": "Q+tgkD5iZ7",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "MERGE_SORT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How to show the running time",
+                        "Count of comparisons<div>or<br /><div>Count of additions</div><div>or</div><div>Count of insertions</div></div>"
+                    ],
+                    "guid": "th6>IS[G]r",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Running",
+                        "Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "MAX HEAP - Definition",
+                        "The largest element of the tree is at the root.<div>This is true for all subtrees below the root.</div>"
+                    ],
+                    "guid": "=.t0ZE;5~",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "MAX_HEAP"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "MIN HEAP - Definition",
+                        "The smallest element is at the root.<div>This is true for all sub trees below the root.</div>"
+                    ],
+                    "guid": "gi]62yM)]9",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "MIN_HEAP"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Factorial Formula",
+                        "t/(n-1)!"
+                    ],
+                    "guid": "H;ad4rl2*^",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Formulas"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Log Rule",
+                        "To convert a log raise the base of the log to hte power of the log.<div><br /></div><div>ex. log2 n = t == 2^(log2 n) = 2^t</div>"
+                    ],
+                    "guid": "y|~VyN.-3y",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Formulas"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the process of partitioning in quick sort.",
+                        "1. The element to the far right of the array is the piivot.<div>2. Elements are organized into two sub arays each containing items less than and greater than the pivot.</div><div>3. repeat this process with each sub array.</div>"
+                    ],
+                    "guid": "rs5]=+~07|",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "QUICKSORT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Show the running time of quick sort is Theta(n^2)",
+                        "When the array A icontains distinct elements and is sorted in decreasing order."
+                    ],
+                    "guid": "MxsLl72U+|",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "QUICKSORT"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "7d305236-c952-11ed-b0ff-fbf1716490fb",
+            "deck_config_uuid": "11ae97d4-a760-11ed-8af1-a14d95925fac",
+            "desc": "Please see the <a href='https://ankiweb.net/shared/info/124085635'>shared deck page</a> for more info.",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-11446087843968.jpg",
+                "paste-1348619731297.jpg",
+                "paste-1537598292199.jpg",
+                "paste-1627792605459.jpg",
+                "paste-1692217114904.jpg",
+                "paste-2383706849437.jpg",
+                "paste-2418066587805.jpg",
+                "paste-3006477107346.jpg",
+                "paste-3049426780306.jpg",
+                "paste-3113851289949.jpg",
+                "paste-3380139262289.jpg",
+                "paste-4063039062165.jpg",
+                "paste-4097398800540.jpg",
+                "paste-5299989643480.jpg",
+                "paste-6163278070300.jpg",
+                "paste-6975026888988.jpg",
+                "paste-7962869366994.jpg",
+                "paste-8426725835177.jpg",
+                "paste-9109625634968.jpg"
+            ],
+            "name": "Exam 2",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Tree Limitations",
+                        "<div>Only can representations of a hierarchical type such as relations between parent and child</div><div><br /></div><div>Other relations are indirectly represented such as siblings</div><div><br /></div>"
+                    ],
+                    "guid": "lQ8vsA:t1",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Trees"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Graph",
+                        "<div>A graph is a collection of vertices (or nodes) and the connections between them</div>"
+                    ],
+                    "guid": "fMc}I!ie5F",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "simple graph",
+                        "<div>G = (V, E) consists of a nonempty set V of vertices and a possibly empty set E of edges, each edge being a set of two vertices from V</div><div><br /></div>"
+                    ],
+                    "guid": "la6i;<nCL!",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "directed graph",
+                        "<div>A directed graph, or a digraph, G = (V, E) consists of a nonempty set V of vertices and a set E of edges (also called arcs), where each edge is a pair of vertices from V</div>"
+                    ],
+                    "guid": "IcD:tq55ag",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "path",
+                        "A path from v1 to vn is a sequence of edges edge(v1, v2), edge (v2, v3), … , edge (vn-1, vn) and is denoted as path v1, v2, v3, … , vn-1, vn.&nbsp;"
+                    ],
+                    "guid": "rX6:hu}ttW",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "circuit",
+                        "If v1 = &nbsp;vn &nbsp;and no edge is repeated, then the path is called a circuit."
+                    ],
+                    "guid": "i,Zb4eYt.C",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "cycle",
+                        "If all vertices in a circuit are different, then it is called a cycle. (a path that begins and ends on the same vertex)"
+                    ],
+                    "guid": "hc!l3>1%3E",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "weighted graph",
+                        "<div>A graph is called a weighted graph if each edge has an assigned number.</div>"
+                    ],
+                    "guid": "N+cu~#k=,h",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "adjacency list",
+                        "<img src=\"paste-1348619731297.jpg\" />"
+                    ],
+                    "guid": "J)Q):2Bv<*",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "adjacency matrix",
+                        "<img src=\"paste-1537598292199.jpg\" />"
+                    ],
+                    "guid": "yo)O7[|o0R",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "undirected graph - representation",
+                        "<img src=\"paste-1627792605459.jpg\" />"
+                    ],
+                    "guid": "GkqGZ?q*QK",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "directed graph - representation",
+                        "<img src=\"paste-1692217114904.jpg\" />"
+                    ],
+                    "guid": "c`pU$|5AS$",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "weighted graph - representation",
+                        "<img src=\"paste-2383706849437.jpg\" /><img src=\"paste-2418066587805.jpg\" />"
+                    ],
+                    "guid": "i<GI1jh~|^",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "breadth first search",
+                        "<div>Given a graph G = (V , E) and a distinguished source vertex s, breadth-first search systematically explores the edges of G to “discover” every vertex that is &nbsp;reachable from s.</div><div><br /></div><div>It computes the distance (smallest number of edges) from s to each reachable vertex.</div><div><br /></div><div>It also produces a “breadth-first tree” with root s that contains all reachable vertices.&nbsp;</div><div><br /></div><div><div>The algorithm works on both directed and undirected graphs.</div></div><div><br /></div>"
+                    ],
+                    "guid": "oEhL];o.M>",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "breadth first search - representation",
+                        "<div>Directed Graph</div><img src=\"paste-3006477107346.jpg\" /><div>Undirected Graph</div><div><img src=\"paste-3049426780306.jpg\" /></div>"
+                    ],
+                    "guid": "x6!HibUl(q",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "breadth first search - algorithm psuedo code",
+                        "<img src=\"paste-3113851289949.jpg\" />"
+                    ],
+                    "guid": "Lb4!o/6{8q",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "depth first search",
+                        "<div>To search “deeper” in the graph whenever possible.</div><div><br /></div><div>Explores edges out of the most recently discovered vertex &nbsp;that still has unexplored edges leaving it.</div><div><br /></div><div>Once all of ’s edges have been explored, the search “backtracks” to explore edges leaving the vertex from which &nbsp;was discovered.&nbsp;</div><div><br /></div><div><div>If any undiscovered vertices remain, then depth-first search selects one of them as a new source, and it repeats the search from that source.</div><div><br /></div><div>The algorithm repeats this entire process until it has discovered every vertex</div></div>"
+                    ],
+                    "guid": "s=JVQNn^7#",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "depth first search -psuedocode",
+                        "<img src=\"paste-3380139262289.jpg\" />"
+                    ],
+                    "guid": "FXYvn}C|g]",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "depth first search - representations",
+                        "Undirected Graph<div><img src=\"paste-4063039062165.jpg\" /></div><div>Directed Graph</div><div><img src=\"paste-4097398800540.jpg\" /></div>"
+                    ],
+                    "guid": "e{P6A&J)8n",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Graph Algorithm - Run Time",
+                        "<div>The algorithm runs in time O (VE)” &nbsp;meaning that the algorithm runs in time O (|V| |E|) V for verticies and E for edges.</div><div><br /></div>"
+                    ],
+                    "guid": "F<3%)c>=EW",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Kruskal’s Algorithm",
+                        "<div>The set A is a forest whose vertices are all those of the given graph.</div><div><br /></div><div>The safe edge added to A is always a least-weight edge in the graph that connects two distinct components.</div><div><br /></div><div><div>Qualifies as a greedy algorithm because at each step it adds to the forest an edge of least possible weight.</div></div>"
+                    ],
+                    "guid": "s`BROcA,Q8",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Kruskal’s Algorithm - pseudocode",
+                        "<img src=\"paste-5299989643480.jpg\" />"
+                    ],
+                    "guid": "q2n-C[sv}l",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Kruskal’s Algorithm - representation",
+                        "<img src=\"paste-6163278070300.jpg\" />"
+                    ],
+                    "guid": "wI:TGw|*gp",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are the two algorithms that can be used to find a Minimum Spanning Tree?",
+                        "<div>Kruskal’s Algorithm</div><div><br /></div><div>Prime’s Algorithm</div>"
+                    ],
+                    "guid": "KD|7k0#I8g",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Minimum Spanning Tree",
+                        "<img src=\"paste-6975026888988.jpg\" />"
+                    ],
+                    "guid": "jaa$*QN==1",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dijkstra’s Algorithm - psuedocode",
+                        "<img src=\"paste-7962869366994.jpg\" />"
+                    ],
+                    "guid": "fBfa&=asjK",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dijkstra’s Algorithm - Complexity",
+                        "<div>The complexity of Dijkstra’s algorithm</div><div><br /></div><div>O (|V|^2): the first for loop and the while loop are executed |V| times.</div><div><br /></div><div>The efficiency can be improved by using a heap to store and order vertices and adjacency lists.</div><div><br /></div><div>O ((|E| + |V|) lg |V| )</div><div><br /></div><div><div>Each time through the while loop for |V|, the cost of restoring the heap after removing a vertex is proportional to O (lg|V|)</div></div><div><br /></div><div><br /></div>"
+                    ],
+                    "guid": "hK{VcB5bgW",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dijkstra’s Algorithm - representation",
+                        "<img src=\"paste-8426725835177.jpg\" />"
+                    ],
+                    "guid": "n}r9G/2u+=",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dijkstra’s Algorithm",
+                        "<div><div>Repeatedly selects the vertex u ∈ &nbsp;V - S with the minimum shortest-path estimate, adds u to S, and relaxes all edges leaving u.</div></div><div><br /></div><div>Uses a greedy strategy: always chooses the “lightest” or “closest” vertex in V-S to add to set S.</div><div><br /></div><div>Dijkstra’s algorithm does indeed compute shortest paths.</div>"
+                    ],
+                    "guid": "p-Zy.=y,R%",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Shortest Path",
+                        "<img src=\"paste-9109625634968.jpg\" /><div><img src=\"paste-11446087843968.jpg\" /></div>"
+                    ],
+                    "guid": "L,u>T/=JJa",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Can shortest paths contain cycles?",
+                        "NO<div><br /></div><div><div>That is, if path p = (v0, v1, …, vk) is a path and path c = (vi, vi+1, …, vj) is a positive-weight cycle on this path (so that vi &nbsp;= vj and w (c) &gt; 0), then the path p’ = (v0, v1, …, vi, vi+1, …, vk) has weight w(p’) cannot be a shortest path from v0 to vk.</div></div>"
+                    ],
+                    "guid": "yX=9}Au:wX",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is a famous algorithm to find shortest paths?",
+                        "<div>Dijkstra’s Algorithm</div>"
+                    ],
+                    "guid": "IA-A.opBCi",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Is breadth first search a shortest path algorithm?",
+                        "<div>The breadth-first-search algorithm is a shortest-paths algorithm that works on unweighted graphs, that is, graphs in which each edge has unit weight.&nbsp;</div>"
+                    ],
+                    "guid": "RxoL[.U&s",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Can&nbsp;Dijkstra’s algorithm deal with negative edge weights?",
+                        "<div>NO</div><div><br /></div><div>Dijkstra’s algorithm, assumes that all edge weights in the input graph are nonnegative, as in the road-map example.</div><div><br /></div>"
+                    ],
+                    "guid": "MOX;cJ6,{g",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Can shortest paths contain negative weights?",
+                        "NO"
+                    ],
+                    "guid": "pbyU$|=nu1",
+                    "note_model_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "graphs"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        }
+    ],
+    "crowdanki_uuid": "7d2f40bc-c952-11ed-b0ff-fbf1716490fb",
+    "deck_config_uuid": "11ae97d4-a760-11ed-8af1-a14d95925fac",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "11ae97d4-a760-11ed-8af1-a14d95925fac",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    2,
+                    0
+                ],
+                "order": 1,
+                "perDay": 500,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 5000
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "TAMUSA::CSCI3343 Analysis of Algorithms",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "c147b692-b6e9-11ed-9edf-1110bb0abf82",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[20pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath,amsfonts,mathrsfs}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
