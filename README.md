@@ -1,44 +1,45 @@
 # CSCI3343_Analysis_of_Algorithms
 
 ## Project Overview
+Welcome to the CSCI3343_Analysis_of_Algorithms repository! This collaborative project is dedicated to enhancing Anki decks for the CSCI3343 Analysis of Algorithms course. Our goal is to create a comprehensive resource that helps students better understand and memorize complex algorithms through effective spaced repetition learning.
 
-Welcome to the CSCI3343_Analysis_of_Algorithms repository. This project is a collaborative effort aimed at enhancing Anki decks for the CSCI3343 Analysis of Algorithms course. Our goal is to create a comprehensive, high-quality learning resource that will help students understand and apply complex algorithmic concepts. This repository features guidelines for contributors and provides access to shared decks on AnkiWeb.
+### Project Structure
+- **/decks/**: This directory contains the shared Anki decks available for download.
+- **/guidelines/**: Here, you'll find the guidelines for contributing to the repository, including how to format and submit your Anki cards.
+- **/resources/**: Additional resources and links to further reading materials or online courses.
 
 ## Setup and Installation
+To get started with these Anki decks, you'll need to have Anki installed on your computer. Anki is a program which makes remembering things easy because it is a lot more efficient than traditional study methods.
 
-To contribute to this project, you'll need to have the following dependencies installed:
+### Installing Anki
+1. Download Anki for your operating system from [AnkiWeb](https://apps.ankiweb.net/).
+2. Follow the installation instructions on the website to install the application on your device.
 
-1. Git
-2. Anki
-
-Here are the steps to get started:
-
-1. Clone this repository to your local machine using `git clone https://github.com/<YourUserName>/CSCI3343_Analysis_of_Algorithms.git`.
-
-2. Install Anki on your machine. You can download it from the official website [here](https://apps.ankiweb.net/).
-
-3. Once you have Anki installed, you can import the deck by clicking on `File > Import` and selecting the `.apkg` file from the cloned repository.
+### Using the Decks
+1. Clone this repository or download the desired decks from the **/decks/** directory.
+2. Open Anki, and select `File > Import` from the top menu.
+3. Browse to the location of the downloaded deck file and select it to import.
 
 ## Usage Examples
+Once you have imported the decks into Anki, you can start using them as follows:
+- Select a deck from the main Anki window.
+- Click on "Study Now" to start a study session.
+- Anki will show you cards from the deck, and you can rate how well you remembered the information.
+- Anki schedules the next review of each card depending on how well you remembered it.
 
-Once you've imported the Anki deck, you can start studying. Here's how:
+## How to Contribute
+We encourage contributions from students and educators! If you have a good understanding of algorithms and wish to contribute to the Anki decks, please follow these guidelines:
 
-1. Open Anki and select the CSCI3343_Analysis_of_Algorithms deck.
-2. Click on `Study Now` to start studying.
-3. Anki will show you a card with a question or prompt. Think about your answer, then click `Show Answer` to see the correct response.
-4. Rate how well you knew the answer using the options at the bottom of the screen. Anki will use this information to schedule when you'll see this card again.
-
-## Contribution Guidelines
-
-We welcome and appreciate all contributions. If you'd like to contribute, please follow these guidelines:
-
-1. Fork the repository and create a new branch for your changes.
-2. Make your changes in your branch. If you're adding a new card, please make sure it's clear, concise, and accurate.
-3. Submit a pull request with your changes. Include a detailed description of your changes and why you think they're necessary.
-4. We'll review your pull request and merge it if everything looks good.
-
-Please note that we have a code of conduct in place. We expect all contributors to respect this code and work together to create a welcoming, inclusive environment.
+1. **Fork the Repository**: Start by forking the repository to your GitHub account.
+2. **Create a Branch**: Make a branch in your fork for your contributions.
+3. **Add or Modify Cards**: Add new cards or improve existing ones in your branch. Ensure that your cards are clear, concise, and accurate.
+4. **Follow Formatting Guidelines**: Check the **/guidelines/** directory for specific formatting rules for the cards.
+5. **Submit a Pull Request**: Once you're done, submit a pull request from your branch to the main repository. Please provide a clear description of your changes.
 
 ## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-This project is licensed under the MIT License. For more details, please see the [LICENSE](LICENSE.md) file.
+## Additional Notes
+Contributions to this repository should be made with the intention of helping others. Please ensure that all content is respectful and educational.
+
+Thank you for contributing to the CSCI3343_Analysis_of_Algorithms project and helping make learning algorithms easier for everyone!
